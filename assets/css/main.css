@@ -1,24 +1,25 @@
+.user-details, .user {
+  margin: 0;
+  padding: 0;
+}
+
+.user-details h1 {
+  margin-bottom: 10px;  /* Reduce space below heading */
+}
+
 .user {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  align-items: stretch;
-  margin-top: 20px;
+  gap: 20px;  /* Controls space between your "cards" */
+  margin: 0;
+  padding: 0;
 }
 
 .tech {
-  width: 300px;
-  background-color: #f9f9f9;
-  border-radius: 10px;
+  margin: 0;
   padding: 15px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  text-align: center;
-  box-sizing: border-box;
-}
-
-.tech img {
-  max-width: 100%;
-  height: auto;
+  background: #f9f9f9;
   border-radius: 8px;
+  /* Optional: set a width for nice alignment */
+  width: 300px;
 }
