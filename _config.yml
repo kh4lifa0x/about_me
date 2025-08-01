@@ -1,8 +1,8 @@
 # Site settings
 title: Ahmed Khalifa | Threat Researcher
 description: Doing Threat Research, Hunting Adversaries Infrastructure 
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "https://github.com/kh4lifa0x/about_me/edit/master" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/about_me" # the subpath of your site, e.g. /blog
+url: "https://kh4lifa0x.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ahmed Khalifa
